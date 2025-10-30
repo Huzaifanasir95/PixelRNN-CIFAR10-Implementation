@@ -301,12 +301,12 @@ Lower BPD indicates better model performance.
 ## 👤 Author
 
 **Huzaifa Nasir**  
-Student ID: 22I-1053  
+ 
 Department of Computer Science  
 National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad, Pakistan
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: i221053@nu.edu.pk
+- GitHub: [@yourusername](https://github.com/huzaifanasir95)
+- Email: nasirhuzaifa95@Gmail.com
 
 ---
 
@@ -335,7 +335,7 @@ If you use this implementation in your research, please cite:
   title = {PixelRNN Implementations: PixelCNN, Row LSTM, and Diagonal BiLSTM},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/PixelRNN-CIFAR10-Implementation}
+  url = {https://github.com/Huzaifanasir95/PixelRNN-CIFAR10-Implementation.git}
 }
 ```
 
