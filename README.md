@@ -117,7 +117,7 @@ All models showed stable convergence with proper gradient clipping and learning 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PixelRNN-CIFAR10-Implementation.git
+git clone https://github.com/Huzaifanasir95/PixelRNN-CIFAR10-Implementation.git
 cd PixelRNN-CIFAR10-Implementation
 
 # Create virtual environment (optional but recommended)
