@@ -305,7 +305,7 @@ Lower BPD indicates better model performance.
 Department of Computer Science  
 National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad, Pakistan
 
-- GitHub: [@yourusername](https://github.com/huzaifanasir95)
+- GitHub: [huzaifanasir95](https://github.com/huzaifanasir95)
 - Email: nasirhuzaifa95@Gmail.com
 
 ---
@@ -330,10 +330,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this implementation in your research, please cite:
 
 ```bibtex
-@misc{nasir2024pixelrnn,
+@misc{nasir2025pixelrnn,
   author = {Nasir, Huzaifa},
   title = {PixelRNN Implementations: PixelCNN, Row LSTM, and Diagonal BiLSTM},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/Huzaifanasir95/PixelRNN-CIFAR10-Implementation.git}
 }
@@ -347,4 +347,4 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 ---
 
-**Last Updated:** October 2024
+**Last Updated:** October 2025
